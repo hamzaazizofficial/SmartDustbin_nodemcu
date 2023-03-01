@@ -3,7 +3,7 @@
 ## Tutorial Video
 https://www.instagram.com/reel/CpARxHRBve1/?igshid=YmMyMTA2M2Y=
 
-## Circuit
+## Circuit Explanation
 
 - **Ultrasonic Sensor:** *VCC* to *Vin* of nodemcu, *GND* to *GND* of nodemcu, *Trig* to *D6* of nodemcu, *Echo* to *D5* of nodemcu.
 
